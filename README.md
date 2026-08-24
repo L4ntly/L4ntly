@@ -3,7 +3,7 @@
 I've graduated from Computer Eng. and currently enhancing my problem solving skills with Python in Data Science & Machine Learning also I'm learning Data Structures and Algorithms. Rather than coding I love solving problems and I feel more productive when getting expose to it.
 
 # 💫 About Me:
-<br>- 🐍 Focused on Python.<br>- 📊 Learning Pandas, NumPy, and SQL.<br>- 🧩 Studying Data Structures & Algorithms.<br>- 🤖 Interested in LLMs and Machine Learning.<br>- 🛠️ Learning by building real-world projects<br>
+<br>- 🐍 Focused on Python only.<br>- 📊 Learning Data Science, and SQL for now.<br>- 🧩 Enhancing Data Structures & Algorithms.<br>- 🤖 Interested in LLMs and Machine Learning.<br>- 🛠️ Learning by building real-world projects<br>
 
 
 # 💻 Tech Stack:
