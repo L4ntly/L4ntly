@@ -4,7 +4,7 @@ I'm a Computer Engineering graduate currently focused on improving my Python ski
 I learn primarily by building projects and experimenting with modern LLM tools and frameworks.
 
 # 💫 About Me:
-<br>- 🐍 Improving my Python skills.<br>- 🤖 Learning Large Language Models (LLMs).<br>- 🦜 Exploring LangChain and the LLM ecosystem.<br>- 🔗 Learning how to integrate LLMs into real-world applications.<br>- 🛠️ Building hands-on projects to strengthen my skills. <br> 📚 Currently exploring RAG, prompt engineering, and LLM APIs.
+<br>- 🐍 Improving my Python skills.<br>- 🤖 Learning Large Language Models (LLMs).<br>- 🦜 Exploring LangChain and the LLM ecosystem.<br>- 🔗 Learning how to integrate LLMs into real-world applications.<br>- 🛠️ Building hands-on projects to strengthen my skills. <br>- 📚 Currently exploring RAG, prompt engineering, and LLM APIs.
 
 
 # 💻 Tech Stack:
