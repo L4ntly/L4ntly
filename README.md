@@ -8,14 +8,9 @@ I learn primarily by building projects and experimenting with modern LLM tools a
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 Currently Learning:
-LLMs
-LangChain
-RAG
-LLM APIs
-Prompt Engineering
----
-[![](https://komarev.com/ghpvc/?username=L4ntly&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📚 Currently Learning:
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-005571?style=flat)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat)
