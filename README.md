@@ -19,7 +19,7 @@ Computer Engineering graduate focused on building practical LLM-powered applicat
 
 ### LLM Development:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://shields.io)
+![LangGraph](https://shields.io](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat&logo=langchain&logoColor=white))
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat)
 
 
