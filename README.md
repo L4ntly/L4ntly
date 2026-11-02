@@ -10,8 +10,8 @@ Computer Engineering graduate focused on building practical LLM-powered applicat
 
 # 💻 Tech Stack:
 ### 📚 Programming: 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/python-3.10%2B-blue)
-[![SQLite](https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue))
+![SQLite](https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic)
 
 
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
