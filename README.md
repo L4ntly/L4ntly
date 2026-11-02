@@ -9,7 +9,7 @@ Computer Engineering graduate focused on building practical LLM-powered applicat
 
 
 # 💻 Tech Stack:
-### 📚 Currently Learning:
+### 📚 Programming: 
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-005571?style=flat)
