@@ -28,4 +28,6 @@ Computer Engineering graduate focused on building practical LLM-powered applicat
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-D97706?style=flat&logo=fastapi&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector_Databases-2563EB?style=flat&logo=chroma&logoColor=white)
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat)
+### Backend:
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=flat&logo=postman&logoColor=white)
