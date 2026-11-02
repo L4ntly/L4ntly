@@ -22,9 +22,10 @@ Computer Engineering graduate focused on building practical LLM-powered applicat
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat&logo=langchain&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat)
 
-
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
-
+### AI Engineering:
 ![RAG](https://img.shields.io/badge/RAG-005571?style=flat)
+![Embeddings](https://img.shields.io/badge/Embeddings-008080?style=flat&logo=openai&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-D97706?style=flat&logo=fastapi&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-2563EB?style=flat&logo=chroma&logoColor=white)
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat)
