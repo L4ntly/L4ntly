@@ -3,7 +3,9 @@
 Computer Engineering graduate focused on building practical LLM-powered applications with Python. Interested in RAG systems, AI agents, tool calling, and integrating LLMs into real-world applications. I learn by designing, building, and experimenting with AI-powered projects.
 
 # 💫 About Me:
-<br>- 🐍 Improving my Python skills.<br>- 🤖 Learning Large Language Models (LLMs).<br>- 🦜 Exploring LangChain and the LLM ecosystem.<br>- 🔗 Learning how to integrate LLMs into real-world applications.<br>- 🛠️ Building hands-on projects to strengthen my skills. <br>- 📚 Currently exploring RAG, prompt engineering, and LLM APIs.
+Building practical applications powered by Large Language Models.
+Exploring RAG, AI Agents, Tool Calling, and LLM Frameworks.
+Developing end-to-end AI applications using Python and modern backend technologies.
 
 
 # 💻 Tech Stack:
