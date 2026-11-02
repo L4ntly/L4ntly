@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Kerem
 
-I'm a Computer Engineering graduate currently focused on improving my Python skills and building applications with Large Language Models (LLMs).
-I learn primarily by building projects and experimenting with modern LLM tools and frameworks.
+Computer Engineering graduate focused on building practical LLM-powered applications with Python. Interested in RAG systems, AI agents, tool calling, and integrating LLMs into real-world applications. I learn by designing, building, and experimenting with AI-powered projects.
 
 # 💫 About Me:
 <br>- 🐍 Improving my Python skills.<br>- 🤖 Learning Large Language Models (LLMs).<br>- 🦜 Exploring LangChain and the LLM ecosystem.<br>- 🔗 Learning how to integrate LLMs into real-world applications.<br>- 🛠️ Building hands-on projects to strengthen my skills. <br>- 📚 Currently exploring RAG, prompt engineering, and LLM APIs.
