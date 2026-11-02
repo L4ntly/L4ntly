@@ -13,12 +13,18 @@ Computer Engineering graduate focused on building practical LLM-powered applicat
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic)
 
-### Data Processing
+### Data Processing:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
+### LLM Development:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-005571?style=flat)
+![LangGraph](https://shields.io)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat)
+
+
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat)
+
+![RAG](https://img.shields.io/badge/RAG-005571?style=flat)
+
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat)
